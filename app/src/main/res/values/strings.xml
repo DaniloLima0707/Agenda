@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda De Contatos</string>
+    <string name="btnSalvar">Salvar</string>
+    <string name="btnCancelar">Cancelar Edição</string>
+    <string name="textName">Insira um nome</string>
+    <string name="NumberPhone">Insira um Telefone</string>
+</resources>
